@@ -26,3 +26,4 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 ## List Of Contributors
 
 1. AkasakaID
+2. Gurdeep Singh

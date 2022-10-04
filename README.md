@@ -7,10 +7,6 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 [About Hacktoberfest](https://hacktoberfest.com/about/)
 
-## Contributors
-
-[Stuckcode](https://stuckcode.com)
-
 ## How to contribute
 
 - Fork this repository
@@ -27,3 +23,4 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 
 1. AkasakaID
 2. Gurdeep Singh
+3. [Stuckcode](https://stuckcode.com)

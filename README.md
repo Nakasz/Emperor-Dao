@@ -25,5 +25,6 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 2. Gurdeep Singh
 3. [Stuckcode](https://stuckcode.com)
 4. Sofiyan syed
+5. [Beer idev](https://github.com/beer-idev)
 5. Rohan29-AN
-5. Ratnesh Jaiswal
+6. Ratnesh Jaiswal

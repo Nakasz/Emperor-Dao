@@ -28,3 +28,4 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 5. [Beer idev](https://github.com/beer-idev)
 5. Rohan29-AN
 6. Ratnesh Jaiswal
+7. Ashik
